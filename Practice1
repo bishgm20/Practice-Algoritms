@@ -1,0 +1,5 @@
+// The output of the machine are two oscillating lits of the number numbers 0 through 11.
+// Mat is a list 12 entities long. When executed, method1 takes mat as an input. 
+// In the for loop, variables i adds one and passes to another for loop containing j. 
+// j counts up the list to 11 while printing itself and j at the same time. i does not increase unless j has done a full cycle.
+// The method terminates at the numbers 11 and 11.
