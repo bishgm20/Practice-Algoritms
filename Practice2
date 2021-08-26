@@ -1,0 +1,5 @@
+\\ Class employee orinizes new employees entered into the system.
+\\ Employee first and last name are required.
+\\ Count adds +1 to employee object when added.
+\\ This allows employees to be searched by number.
+\\ Output of the algorithm will be AA AA 1  BB BB 2  BB BB 1  0
